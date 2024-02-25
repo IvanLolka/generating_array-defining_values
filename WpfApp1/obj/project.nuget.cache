@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MbvjAikmFCfypk7kZfThPGgNYXJE7BRSB/AMHI2Galm9eCwuHkYLWkXMOVA6Xlr2d64Aie4xjFbLDinlKGRM3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivanP\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ivanP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ivanP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ivanP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
